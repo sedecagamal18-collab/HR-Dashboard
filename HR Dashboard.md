@@ -121,7 +121,7 @@ This project demonstrates how Excel can be used to:
 
 ## Dashboard Preview
 
-![HR Dashboard](HR%20Dashboard.png)
+HR Dashboard.jpg
 
 ## Conclusion
 
