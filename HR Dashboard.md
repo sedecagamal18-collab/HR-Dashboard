@@ -121,7 +121,7 @@ This project demonstrates how Excel can be used to:
 
 ## Dashboard Preview
 
-HR Dashboard.jpg
+[HR Dashboard.jpg](https://github.com/sedecagamal18-collab/HR-Dashboard/blob/590d8e81ee09bac97a4f23fda3f63a8417d25b24/HR%20Dashboard.jpg)
 
 ## Conclusion
 
