@@ -1,4 +1,3 @@
-
 # HR Analytics Dashboard | Excel
 
 ## Project Overview
@@ -116,7 +115,13 @@ This project demonstrates how Excel can be used to:
 
 ## Project Files
 
-- `HR Dashboard.xlsx` — Excel workbook containing the employee dataset, Pivot Tables, and dashboard sheets.
+- `Employees.xlsx` — Original employee dataset used for the analysis.
+- `HR Dashboard.xlsx` — Excel workbook containing the completed dashboard.
+- `HR Dashboard.jpg` — Image of the final HR dashboard.
+
+## Dashboard Preview
+
+![HR Dashboard](HR%20Dashboard.png)
 
 ## Conclusion
 
